@@ -1,0 +1,4 @@
+NumeroDeClientes:0
+NumeroDeCuentas:0
+NumeroDeTarjetas:0
+NumeroDeTransacciones:0
